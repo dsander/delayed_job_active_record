@@ -10,3 +10,4 @@ else
 
   Delayed::Worker.backend = :active_record
 end
+class DelayedJobActiveRecord; end
